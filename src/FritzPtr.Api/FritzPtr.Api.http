@@ -1,0 +1,6 @@
+@FritzPtr.Api_HostAddress = http://localhost:5254
+
+GET {{FritzPtr.Api_HostAddress}}/dns-query?dns=AAABAAABAAAAAAAABG5hcwVsb2NhbAAAAAABAAE HTTP/2
+Accept: application/dns-message
+
+###
