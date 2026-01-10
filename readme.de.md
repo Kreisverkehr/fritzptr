@@ -63,6 +63,13 @@ Da die FRITZ!Box keine Informationen zu IPv6 Adressen über TR-064 rausgibt, kan
 
 ---
 
+## Referenzen
+
+(blar/fritzbox-wsdl)[https://github.com/blar/fritzbox-wsdl] für die Bereitstellung technischer Spezifikationen zu den APIs.
+(picatz/doh)[https://github.com/picatz/doh] für die Bereitstellung eines einfachen CLI-Clients für DoH.
+
+---
+
 ## Lizenz
 
 MIT License

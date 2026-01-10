@@ -63,6 +63,13 @@ Since the FRITZ!Box does not provide any information about IPv6 addresses via TR
 
 ---
 
+## References
+
+(blar/fritzbox-wsdl)[https://github.com/blar/fritzbox-wsdl] for providing technical specifications on the apis.
+(picatz/doh)[https://github.com/picatz/doh] for providing a simple cli client for DoH.
+
+---
+
 ## License
 
 MIT License
