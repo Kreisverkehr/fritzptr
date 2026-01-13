@@ -1,6 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/FritzPtr.Api/FritzPtr.Api.csproj" />
-    <Project Path="src/FritzPtr.Core/FritzPtr.Core.csproj" />
-  </Folder>
-</Solution>

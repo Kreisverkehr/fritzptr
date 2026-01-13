@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FritzPtr.Api/FritzPtr.Api.csproj" />
+  <Project Path="FritzPtr.Core/FritzPtr.Core.csproj" />
+</Solution>
