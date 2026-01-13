@@ -63,6 +63,10 @@ Since the FRITZ!Box does not provide any information about IPv6 addresses via TR
 
 ---
 
+## A word on https
+
+This is a service intended to be running in your home network an should never be publicly exposed. For this reason I think https adds unneccesary complexity. However I haven't stripped out any https functionality that comes with dotnet. If you fancy to do so you should be able to configure it using (this guide from Microsoft)[https://learn.microsoft.com/en-us/aspnet/core/security/docker-https?view=aspnetcore-10.0#running-pre-built-container-images-with-https]. Please keep in mind that I won't actively test this with https in mind.
+
 ## References
 
 (blar/fritzbox-wsdl)[https://github.com/blar/fritzbox-wsdl] for providing technical specifications on the apis.
