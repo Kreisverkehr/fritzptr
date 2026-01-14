@@ -64,7 +64,7 @@ public class DnsQueryController : ControllerBase
                 response = PtrResponseBuilder.Build(
                     dnsQuery,
                     msg.Question.Name,
-                    $"{hostname}.fritz.box"
+                    hostname.EndsWith("fritz.box") ? hostname : $"{hostname}.fritz.box"
                 );
         }
 
